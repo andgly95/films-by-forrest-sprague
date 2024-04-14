@@ -23,7 +23,7 @@ export default function Home() {
           <div className="p-8 max-w-4xl text-center bg-black bg-opacity-50 rounded-lg">
             <h2 className="text-4xl font-semibold mb-6 text-amber-500 font-serif">Epiphany I</h2>
             <p className="text-xl leading-relaxed font-serif italic">
-              "Beautiful landscapes of the exceptional mundane. Working in an industrial setting, I can appreciate the nonchalance and fluidity of routine work playing out. The proportions of these shots are well thought out, and the lighting is gorgeous and moody. There's something to be said about the perspective of looking at a scene from afar as well; it evokes something, makes me think of the scene in Stroszek where they go out to the frozen pond. It gets me thinking about shots like these in a narrative setting."
+              &quot;Beautiful landscapes of the exceptional mundane. Working in an industrial setting, I can appreciate the nonchalance and fluidity of routine work playing out. The proportions of these shots are well thought out, and the lighting is gorgeous and moody. There&apos;s something to be said about the perspective of looking at a scene from afar as well; it evokes something, makes me think of the scene in Stroszek where they go out to the frozen pond. It gets me thinking about shots like these in a narrative setting.&quot;
             </p>
           </div>
         </div>
@@ -42,7 +42,7 @@ export default function Home() {
           <div className="p-8 max-w-4xl text-center bg-black bg-opacity-50 rounded-lg">
             <h2 className="text-4xl font-semibold mb-6 text-amber-500 font-serif">Palinopsia</h2>
             <p className="text-xl leading-relaxed font-serif italic">
-              "Absolutely stunning. The textures, the rhythmic pacing, the sense of travel, mixing landscapes with abstract patterns. Like a film reel with hundreds of paintings in motion."
+              &quot;Absolutely stunning. The textures, the rhythmic pacing, the sense of travel, mixing landscapes with abstract patterns. Like a film reel with hundreds of paintings in motion.&quot;
             </p>
           </div>
         </div>
@@ -61,7 +61,7 @@ export default function Home() {
           <div className="p-8 max-w-4xl text-center bg-black bg-opacity-50 rounded-lg">
             <h2 className="text-4xl font-semibold mb-6 text-amber-500 font-serif">Cherokee (2020)</h2>
             <p className="text-xl leading-relaxed font-serif italic">
-              "I'm honored, thank you!"
+              &quot;I&apos;m honored, thank you!&quot;
             </p>
           </div>
         </div>
@@ -70,7 +70,7 @@ export default function Home() {
   <div className="max-w-4xl text-center">
     <h2 className="text-4xl font-semibold mb-8 text-amber-500 font-serif">About Forrest Sprague</h2>
     <p className="text-xl leading-relaxed font-serif mb-8">
-      Forrest Sprague is an acclaimed American structuralist experimental filmmaker based in Manhattan. With a keen eye for composition and a unique approach to storytelling, Sprague's films explore the beauty and complexity of the world around us. His work has been featured in numerous film festivals and exhibitions worldwide, garnering critical acclaim for its thought-provoking and visually stunning content.
+      Forrest Sprague is an acclaimed American structuralist experimental filmmaker based in Manhattan. With a keen eye for composition and a unique approach to storytelling, Sprague&apos;s films explore the beauty and complexity of the world around us. His work has been featured in numerous film festivals and exhibitions worldwide, garnering critical acclaim for its thought-provoking and visually stunning content.
     </p>
     <p className="text-xl leading-relaxed font-serif mb-8">
       Through his films, Sprague invites viewers to embark on a journey of introspection and reflection, challenging traditional notions of narrative and form. His distinctive style, characterized by long takes, carefully framed shots, and a focus on the everyday, has established him as a prominent figure in the world of experimental cinema.
