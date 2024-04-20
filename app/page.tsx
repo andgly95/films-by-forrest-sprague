@@ -3,11 +3,11 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main className="bg-zinc-900 text-white">
-      <section className="flex flex-col items-center justify-center min-h-screen">
-        <h1 className="text-5xl font-bold mb-8 font-serif">
+      <section className="flex flex-col items-center justify-center min-h-screen py-12">
+        <h1 className="text-3xl md:text-5xl text-center font-bold mb-8 font-serif">
           Films by Forrest Sprague
         </h1>
-        <p className="text-2xl mb-12 text-center max-w-3xl font-serif">
+        <p className="text-lg md:text-2xl mb-12 text-center max-w-3xl font-serif">
           Forrest Sprague is an American structuralist experimental filmmaker
           based in Manhattan.
         </p>
@@ -86,11 +86,11 @@ export default function Home() {
         </div>
       </section>
       <section className="flex flex-col items-center justify-center min-h-screen bg-zinc-800">
-        <div className="max-w-4xl text-center">
-          <h2 className="text-4xl font-semibold mb-8 text-amber-500 font-serif">
+        <div className="max-w-4xl text-center px-4">
+          <h2 className="text-2xl md:text-4xl font-semibold mb-8 text-amber-500 font-serif">
             About Forrest Sprague
           </h2>
-          <p className="text-xl leading-relaxed font-serif mb-8">
+          <p className="text-md md:text-xl leading-relaxed font-serif mb-8">
             Forrest Sprague is an acclaimed American structuralist experimental
             filmmaker based in Manhattan. With a keen eye for composition and a
             unique approach to storytelling, Sprague&apos;s films explore the
@@ -99,7 +99,7 @@ export default function Home() {
             garnering critical acclaim for its thought-provoking and visually
             stunning content.
           </p>
-          <p className="text-xl leading-relaxed font-serif mb-8">
+          <p className="text-md md:text-xl leading-relaxed font-serif mb-8">
             Through his films, Sprague invites viewers to embark on a journey of
             introspection and reflection, challenging traditional notions of
             narrative and form. His distinctive style, characterized by long
@@ -110,19 +110,19 @@ export default function Home() {
           <div className="flex justify-center space-x-8">
             <a
               href="https://www.imdb.com/name/nm14280863/"
-              className="text-amber-500 hover:text-amber-400 text-xl font-semibold font-serif"
+              className="text-amber-500 hover:text-amber-400 text-md md:text-xl font-semibold font-serif"
             >
               IMDb
             </a>
             <a
               href="https://vimeo.com/forrestsprague/"
-              className="text-amber-500 hover:text-amber-400 text-xl font-semibold font-serif"
+              className="text-amber-500 hover:text-amber-400 text-md md:text-xl font-semibold font-serif"
             >
               Vimeo
             </a>
             <a
               href="https://letterboxd.com/forrest_s/"
-              className="text-amber-500 hover:text-amber-400 text-xl font-semibold font-serif"
+              className="text-amber-500 hover:text-amber-400 text-md md:text-xl font-semibold font-serif"
             >
               Letterboxd
             </a>
